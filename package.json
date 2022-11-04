@@ -1,0 +1,24 @@
+{
+    "name": "mvu-library",
+    "version": "1.0.0",
+    "description": "you can import the 'lib.js' code in your code to apply the MVU concept by using only 2 functions 'initStorage' and 'updateAll'",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "."
+    },
+    "keywords": [
+        "mvu"
+    ],
+    "author": "Aiman Al Eryany",
+    "license": "ISC",
+    "prettier": {
+        "trailingComma": "es5",
+        "tabWidth": 4,
+        "semi": true,
+        "singleQuote": true
+    }
+}
